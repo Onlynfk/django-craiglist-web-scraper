@@ -12,7 +12,7 @@ features
 
 Running Locally
 ```sh
-$ git clone https://github.com/Onlynfk/trackimmunize
+$ git clone https://github.com/Onlynfk/django-craiglist-web-scraper
 
 $ pipenv shell
 
@@ -22,5 +22,4 @@ $ python manage.py makemigrations
 
 $ python manage.py migrate
 
-```sh
-
+```
