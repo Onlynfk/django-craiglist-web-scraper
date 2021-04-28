@@ -3,7 +3,7 @@
  - it simply scrapes parts of the original craglist &
  - displays it in a more user-firendly interface 😊
 
-features
+# Features
 - Fast craigslist web scraper
 - Filter your searches
 - Prettier interface 👇🏼
