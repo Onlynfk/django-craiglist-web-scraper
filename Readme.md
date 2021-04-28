@@ -1,4 +1,4 @@
-# A simple Craiglist clone App  made with Django
+# A simple Craiglist Web Scrapper clone App  made with Django
 
  - it simply scrapes parts of the original craglist &
  - displays it in a more user-firendly interface 😊
